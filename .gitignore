@@ -1,4 +1,5 @@
 *.db
+*.xlsx
 
 HELP.md
 target/
