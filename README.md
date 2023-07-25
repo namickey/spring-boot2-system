@@ -94,3 +94,7 @@ Spring-Bootを使ったアプリケーションで、ライブラリ管理には
 サンプルアプリケーションを配置済み
 
 ![アプリケーション構成](app.png)
+
+SpringBootでレイヤをマルチプロジェクトで分割したらメリットが多かったというお話  
+https://tech.nri-net.com/entry/spring_boot_multi_project  
+
