@@ -98,3 +98,7 @@ Spring-Bootを使ったアプリケーションで、ライブラリ管理には
 SpringBootでレイヤをマルチプロジェクトで分割したらメリットが多かったというお話  
 https://tech.nri-net.com/entry/spring_boot_multi_project  
 
+## 参考
+
+Linuxの基本的なコマンドを解説してみた  
+https://qiita.com/john_HC20230703/items/e9f53722444e96fea525  
